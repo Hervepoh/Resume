@@ -48,7 +48,5 @@ document.getElementById('click').onmouseover=function(){
 }
 
 /************************ */
-document.querySelector('.project').onmouseover=function () {
-    document.querySelector('.project-description').style.visibility='visible';
-}
+
  
